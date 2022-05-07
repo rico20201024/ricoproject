@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22b963"],{f036:function(n,t,o){"use strict";o.r(t);var a=function(){var n=this,t=n.$createElement,o=n._self._c||t;return o("div",{staticClass:"foot-mark"},[n._v(" FootMark ")])},e=[],r={name:"FootMark",components:{},data:function(){return{}}},c=r,s=o("2877"),u=Object(s["a"])(c,a,e,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d22b963.1d46c73d.js.map

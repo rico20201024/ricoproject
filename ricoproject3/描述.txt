@@ -1,0 +1,6 @@
+需要安装 cnpm install --save axios
+cnpm install --save-dev babel-cli
+
+ 而换成 babel7 ，则变须要装置 @babel/cli ，命令如下所示：
+
+cnpm install --save-dev @babel/core @babel/cli
